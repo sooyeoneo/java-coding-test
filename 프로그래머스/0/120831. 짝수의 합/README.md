@@ -65,3 +65,11 @@
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+
+
+### 첫 번째 답
+<img width="1680" alt="스크린샷 2024-12-22 오전 4 28 10" src="https://github.com/user-attachments/assets/3762280c-8121-4f3d-b0b7-d25a4459a35f" />
+
+### 두 번째 답
+<img width="1680" alt="스크린샷 2024-12-22 오전 4 27 54" src="https://github.com/user-attachments/assets/8097f8ec-a1a2-46c1-9c6f-70fd9b348c8b" />
+
